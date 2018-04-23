@@ -9,5 +9,5 @@ Uses:
 * config
 * body-parser
 
-`config/default.json` contains the ip address and port the server will run on as well as the `password` that must be sent to the `/off` 
+`config/default.json` contains the ip address and port the server will run on as well as the `secret` that must be sent to the `/off` 
 endpoint  so that the server considers the request valid
